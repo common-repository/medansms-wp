@@ -1,0 +1,17 @@
+body {
+    font-family: tahoma;
+    font-size: 12px;
+    direction: rtl;
+}
+
+.alert-box {
+    font-family: tahoma;
+}
+
+.input, textarea {
+    font-family: tahoma;
+}
+
+.button {
+    font-family: tahoma;
+}
